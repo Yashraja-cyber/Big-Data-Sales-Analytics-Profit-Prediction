@@ -193,7 +193,7 @@ python3 hadoop_website.py
 
 ## Author
 
-**Yashraja**
+**Yaswanth Rajamaniekam**
 
 ---
 
